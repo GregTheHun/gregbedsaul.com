@@ -4,4 +4,4 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - _sites/index.md
+  - index.md
